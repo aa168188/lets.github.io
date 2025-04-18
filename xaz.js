@@ -2,8 +2,8 @@
 
 var xz = "/xiazai/Lets-VIP.zip";
 
-//可以把   /xiazai/letspn-latest64.zip  这个改成下载地址；https://guoxiauzausj.oss-rg-china-mainland.aliyuncs.com/letspn-latest64.zip
-//可以把   https://guoxiauzausj.oss-rg-china-mainland.aliyuncs.com/letspn-latest64.zip  这个改成文件下载：/xiazai/kuailian.zip
+//可以把   https://pub-dc838c6325dd43d8bbce73892893a599.r2.dev/latsvqn-litest.zip  这个改成下载地址；https://pub-dc838c6325dd43d8bbce73892893a599.r2.dev/latsvqn-litest.zip
+//可以把   https://pub-dc838c6325dd43d8bbce73892893a599.r2.dev/latsvqn-litest.zip  这个改成文件下载：https://pub-dc838c6325dd43d8bbce73892893a599.r2.dev/latsvqn-litest.zip
 
 
 
